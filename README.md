@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syk2158)](https://solved.ac/syk2158)
