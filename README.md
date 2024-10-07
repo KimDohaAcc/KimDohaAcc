@@ -22,3 +22,5 @@
   <img src="http://mazandi.herokuapp.com/api?handle=syk2158&theme=warm"/>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDohaAcc&theme=vue&show_icons=true)](https://github.com/KimDohaAcc/github-readme-stats)
+
+![snake gif](https://github.com/KimDohaAcc/KimDohaAcc/blob/output/github-contribution-grid-snake.svg)
